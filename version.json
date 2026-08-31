@@ -1,10 +1,11 @@
 {
   "version": "2.6.0",
   "download_url": "https://github.com/r-gorman/LogCompare-Updates/releases/download/v2.5.0/LogCompareSetup.exe",
-  "download_size": "14 MB",
   "release_notes": [
 
-    "Initial release"
-
+    "Initial release",
+    "Added update checker",
+    "Fixed XML comparison issue",
+    "Improved export formatting"
   ]
 }
