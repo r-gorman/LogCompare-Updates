@@ -2,25 +2,13 @@
   "version": "2.6.0",
   "download_url": "https://github.com/r-gorman/LogCompare-Updates/releases/download/v2.5.0/LogCompareSetup.exe",
   "release_notes": [
-    "Added automatic update checking on startup",
-    "Added in-app updater with installer download support",
-    "Added release notes display for application updates",
-    "Added download size calculation from release assets",
-    "Added dynamic update dialog sizing",
-    "Improved XML comparison performance for large files",
-    "Improved JSON parsing and validation",
-    "Improved side-by-side diff rendering",
-    "Improved export formatting for HTML reports",
-    "Improved dark mode styling throughout the application",
-    "Fixed issue with update notification caching",
-    "Fixed XML comparison issue affecting repeated nodes",
-    "Fixed line alignment in plain text diff view",
-    "Fixed mapping validation display inconsistencies",
-    "Fixed scrollbar synchronization in side-by-side view",
-    "Fixed several UI spacing and layout issues",
-    "Added drag-and-drop support improvements",
-    "Added mapping health coverage calculations",
-    "Enhanced report generation performance",
-    "General bug fixes and stability improvements"
-  ]
+  "Added automatic update checking on startup with GitHub-hosted release metadata support",
+  "Improved XML comparison logic to better handle large nested structures and repeated elements",
+  "Enhanced side-by-side difference viewer with improved line alignment and synchronization",
+  "Added mapping validation health metrics including coverage, mapped field counts, and skipped field analysis",
+  "Improved report generation performance for large comparison results and export scenarios",
+  "Fixed several UI layout issues affecting dark mode and high-DPI display environments",
+  "Added installer download support with automatic update workflow integration",
+  "General bug fixes, stability improvements, and user interface refinements"
+]
 }
